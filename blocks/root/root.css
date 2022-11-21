@@ -1,0 +1,30 @@
+:root {
+    background-color: #2A2C2F;
+    --margin-left-right: 16px;
+    --margin-between-blocks: 64px;
+}
+
+@media screen and (min-width: 620px) {
+    :root {
+        --margin-left-right: 24px;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    :root {
+        --margin-between-blocks: 88px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    :root {
+        --margin-between-blocks: 92px;
+        --margin-left-right: 48px;
+    }
+}
+
+@media screen and (min-width: 1280px){
+    :root {
+        --margin-left-right: 100px; 
+    }
+}

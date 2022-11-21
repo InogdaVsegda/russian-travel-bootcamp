@@ -1,0 +1,10 @@
+.place__website {
+    margin: 0 var(--margin-left-right);
+    align-self: end;
+}
+
+@media screen and (min-width: 620px) {
+    .place__website {
+        margin: 0;
+    }
+}

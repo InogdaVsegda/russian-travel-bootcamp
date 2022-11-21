@@ -1,0 +1,4 @@
+.intro {
+    margin: var(--margin-between-blocks) var(--margin-left-right) 0;
+    max-width: 720px;
+}
