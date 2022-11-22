@@ -17,4 +17,4 @@
 
 **GitHUB Pages**
 
-[ссылка](https://tinypng.com/)
+[ссылка](https://inogdavsegda.github.io/russian-travel-bootcamp/)
